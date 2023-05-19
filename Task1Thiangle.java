@@ -1,3 +1,7 @@
+// ДЗ 1 семинар от 18.05.23
+// 1. Вычислить n-ое треугольного 
+// число(сумма чисел от 1 до n)
+
 
 import java.util.Scanner;
 public class Task1Thiangle {
